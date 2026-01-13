@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sai
+#### Prev [Systems Security Researcher @ UF CISE | IT Operations Associate @ UF RecSports | Software Developer Intern @ Bluepad]
 
- Cloud Infrastructure ☁️ | Distributed Systems 🌍 | Artificial Intelligence 🤖 | Computer Architecture 🧠
+ Cloud Infrastructure | Network Engineering | Artificial Intelligence | Computer Architecture | Systems Security
 
 
 </div>
