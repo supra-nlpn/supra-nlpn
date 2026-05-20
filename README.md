@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#### Prev [Systems Security Researcher @ UF CISE | IT Operations Associate @ UF RecSports | Software Developer Intern @ Bluepad]
+#### I like building stuff that I like building because I usually like building stuff
 
  Cloud Infrastructure | Network Engineering | Artificial Intelligence | Computer Architecture | Systems Security
 
